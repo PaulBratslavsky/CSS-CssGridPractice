@@ -65,4 +65,9 @@ body {
     .l-heading {
         font-size: 2rem;
     }
+
+    #main-footer .footer-container input[type="email"],
+    #main-footer .footer-container input[type="submit"]  {
+        width: 100%;
+    }
 }
